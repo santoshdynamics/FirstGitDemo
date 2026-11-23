@@ -10,6 +10,6 @@ pageextension 50000 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hello world....My first Git demo');
+        Message('App published: Hello world....My first Git demkkk');
     end;
 }
